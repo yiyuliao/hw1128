@@ -1,0 +1,37 @@
+
+.table{
+background:#ffffcc;
+font-family: Arial;
+}
+
+td{font-family: Arial;
+font-weight:900;
+}
+
+.left{
+width:50x;    
+height:50px;
+}
+
+.circle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#ffce00;
+}
+
+.red{
+    background:#e20010;
+    color:white;
+}
+span{
+color:crimson;    
+    
+    
+}
